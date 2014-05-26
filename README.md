@@ -5,12 +5,12 @@ This project is the sample code for the article Introduction to JPA
 available here: 
 
 This is a Maven project and can be compiled on any computer that
-has JDK 6 and Maven installed.
+has JDK 7 and Maven installed.
 
 Technical information
 ---------------------
 
-The project is using Java 1.6 and can be built using Maven. It is using both JDBC and JPA connectivity to perform
+The project is using Java 1.7 and can be built using Maven. It is using both JDBC and JPA connectivity to perform
 database operations. All dependencies are declared in the pom.xml file and can be built using Maven with no
 changes.
 The project is using a SQLite database to store data.
@@ -19,7 +19,7 @@ The JPA provider for this project is [EclipseLink](http://www.eclipse.org/eclips
 Download links
 --------------
 
-- [JDK 6](http://www.oracle.com/technetwork/java/javaee/downloads/java-ee-sdk-6u3-jdk-6u29-downloads-523388.html)
+- [JDK 7](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 - [Maven](http://maven.apache.org/download.cgi)
 
 *If you're using Mac OS X Java can be installed from Software Update which will also install Maven*
