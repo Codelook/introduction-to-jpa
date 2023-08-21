@@ -1,8 +1,7 @@
 Introduction to JPA - Source code
 =================================
 
-This project is the sample code for an article called Introduction to JPA
-available that is unfortunately no longer available, but the code its pretty self explanatory.
+This project is the sample code for an article called Introduction to JPA that is unfortunately no longer available, but the code its pretty self explanatory.
 
 The purpose of this fork is to make the example work with the latest migration of JEE javax packages to jakarta.
 
