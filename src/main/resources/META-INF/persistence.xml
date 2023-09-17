@@ -4,8 +4,8 @@
 	    <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
 		<class>codelook.example.introductiontojpa.jpa.Product</class>
 		<properties>
- 			<property name="javax.persistence.jdbc.driver" value="org.sqlite.JDBC" />
-			<property name="javax.persistence.jdbc.url" value="jdbc:sqlite:sample.db" />
+ 			<property name="jakarta.persistence.jdbc.driver" value="org.sqlite.JDBC" />
+			<property name="jakarta.persistence.jdbc.url" value="jdbc:sqlite:sample.db" />
 			<property name="eclipselink.ddl-generation" value="drop-and-create-tables" />
 			<property name="eclipselink.ddl-generation.output-mode" value="database" />
 		</properties>
