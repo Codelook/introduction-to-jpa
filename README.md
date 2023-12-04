@@ -1,8 +1,7 @@
 Introduction to JPA - Source code
 =================================
 
-This project is the sample code for the article Introduction to JPA
-available here: 
+This project is the sample code for an article called Introduction to JPA.
 
 This is a Maven project and can be compiled on any computer that
 has JDK 7 and Maven installed.
